@@ -51,7 +51,7 @@ public class UC8PalindromeCheckerApp {
         if (isPalindrome) {
             System.out.println(word + " is a palindrome.");
         } else {
-            System.out.println(word + " is not a palindrome.");
+            System.out.println(word + " is nt a palindrome.");
         }
     }
 
